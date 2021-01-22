@@ -1,5 +1,4 @@
-
-🅲🅾🅼🅼🅰🅽🅳🅱🅾🆇 🆃🅰🆂🅺 🆁🆄🅽🅽🅴🆁🆂
+# COMMANDBOX TASK RUNNERS
 by Grant Copley ( Twitter: @gaclab )
 
 - Welcome
